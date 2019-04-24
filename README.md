@@ -6,7 +6,7 @@ Address: BioQuant, Im Neuenheimer Feld 267, 69120 Heidelberg, Germany
 
 Contact: gurdeep.singh@bioquant.uni-heidelberg.de
 
-Execute: python training.py <G-protein>
+Execute: python training.py G-protein-name
 
 ______________________________________________________________________
 
