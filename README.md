@@ -1,4 +1,4 @@
-To run PRECOG locally, please go [here](https://github.com/gurdeep330/precog).
+To run PRECOG locally, please go to this [repo](https://github.com/gurdeep330/precog).
 
 The script provided here is to perform 5-fold-CV and testing of GPCRs.
 
