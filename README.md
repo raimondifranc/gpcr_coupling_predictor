@@ -1,4 +1,6 @@
-Script to perform 5-fold-CV and testing of GPCRs
+To run PRECOG locally, please go [here](https://github.com/gurdeep330/precog).
+
+The script provided here is to perform 5-fold-CV and testing of GPCRs.
 
 By: Gurdeep Singh, Francesco Raimondi & Robert B Russell
 
